@@ -1,5 +1,4 @@
 # Optimal-Intraday-Trading
----
 Our goal is to find the best time to trade a stock to maximize profit at the end of 2 days.
 
 Following assumptions are set for the solution provided here:
